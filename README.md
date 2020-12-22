@@ -14,4 +14,4 @@ Documentation: https://help.syncfusion.com/xamarin/datagrid/editing
 To run this application, you need to first clone or download the ‘different editing and selection modes in xamarin.forms datagrid’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
 
 ## Further help
-For more help, check the [Xamarin documentation] (https://docs.microsoft.com/en-us/xamarin/get-started/).
+For more help, check the [Xamarin documentation](https://docs.microsoft.com/en-us/xamarin/get-started/).
